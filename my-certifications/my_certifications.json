@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0",
+        "name": "Ostad MERN Stack Development course",
+        "description": "",
+        "image": "./certificates/1_Junaid-Ahamed-Jesan-mernstack-5-C13907.jpg"
+    },
+    {
+        "id": "1",
+        "name": "Data Analytics Certification Course",
+        "description": "",
+        "image": "./certificates/1_data-analytics-certificate.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Web Development with Programming Hero",
+        "description": "",
+        "image": "./certificates/1_programming hero course.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Software Testing Certificate",
+        "description": "",
+        "image": "./certificates/1_software-testing-certificate.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Ostad MERN Stack Development course",
+        "description": "",
+        "image": "./certificates/a1.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Ostad MERN Stack Development course",
+        "description": "",
+        "image": "./certificates/a2.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Data Science With Python",
+        "description": "",
+        "image": "./certificates/data-science-with-python.jpg"
+    }
+]
